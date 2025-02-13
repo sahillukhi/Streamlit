@@ -5,6 +5,3 @@ pypdf
 python-dotenv
 langchain-community
 ai21
-
-
-~e .

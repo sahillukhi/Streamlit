@@ -1,0 +1,9 @@
+README.md
+setup.py
+Text_Summerizer_and_Question_Answer_chat_bot.egg-info/PKG-INFO
+Text_Summerizer_and_Question_Answer_chat_bot.egg-info/SOURCES.txt
+Text_Summerizer_and_Question_Answer_chat_bot.egg-info/dependency_links.txt
+Text_Summerizer_and_Question_Answer_chat_bot.egg-info/requires.txt
+Text_Summerizer_and_Question_Answer_chat_bot.egg-info/top_level.txt
+src/__init__.py
+src/AI_ChatBOT/__init__.py
